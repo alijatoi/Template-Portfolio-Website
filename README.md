@@ -2,7 +2,7 @@
 
 Template of a Portfolio Website Can Be Used for Creating Web Based Portfolio
 
-Website Created Using HTML 
+Website Created Using HTML , CSS , JavaScript and PHP
 
 Don't forget to :star: the repo .
 
